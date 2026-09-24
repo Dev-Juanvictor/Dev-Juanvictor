@@ -1,36 +1,34 @@
-# Olá, eu me chamo Juan! 👋
+# Juan Victor
 
----
+**Desenvolvedor web freelancer · Estudante de Sistemas de Informação**
 
-## Sobre mim
+Desenvolvo sites e aplicações web para negócios reais, com foco em front-end e experiência em back-end com Python e Flask. Curso Sistemas de Informação na UNINASSAU e busco uma oportunidade de estágio ou uma posição júnior em desenvolvimento de software.
 
-Desenvolvedor Frontend em formação, com foco em HTML, CSS e JavaScript.
-Dedico meu tempo a projetos práticos que me desafiam a escrever código mais limpo e criar experiências de usuário cada vez melhores.
+## Projetos em destaque
 
-Aberto a oportunidades de estágio ou posição júnior onde eu possa aplicar o que aprendo e crescer junto com a equipe — e com interesse em expandir meu conhecimento para o Backend, buscando uma visão mais completa do desenvolvimento.
+| Projeto | Contexto e solução | Tecnologias |
+| --- | --- | --- |
+| [Ô Mineiro — site e cardápio](https://github.com/Dev-Juanvictor/o-mineiro-mobile-2pt) | Site para o restaurante Ô Mineiro, com cardápio digital e página de localização. | HTML e CSS |
+| [Ô Mineiro — sistema de estoque](https://github.com/Dev-Juanvictor/-mineiro) | Aplicação web para cadastro de produtos e controle de entradas e saídas de estoque. | Python, Flask, SQLAlchemy e Bootstrap |
+| [Ravix — educação hospitalar](https://github.com/Dev-Juanvictor/Desafios_1) | Projeto de plataforma educacional com turmas, publicações e perfis de professor e aluno. | Python, Flask e SQLite |
+| [Flowk — produtividade](https://github.com/Dev-Juanvictor/app.js) | Projeto acadêmico de aplicativo mobile para organização de tarefas. | React Native e Expo |
+| [Jogo de plataforma 2D](https://github.com/Dev-Juanvictor/jogoMario) | Projeto acadêmico em equipe. Atuação como Scrum Master, conforme documentação do projeto. | JavaScript, HTML5 Canvas, CSS e Vite |
 
-## Tecnologias & Ferramentas
+## Conhecimentos
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+- **Front-end:** HTML, CSS e JavaScript.
+- **Back-end e dados:** Python, Flask, SQL e SQLAlchemy.
+- **Ferramentas:** Git e GitHub.
+- **Estudos acadêmicos:** React Native.
 
-## Em aprendizado
+## Formação e trajetória
 
-- Lógica de programação e algoritmos
-- Responsividade e boas práticas de CSS
-- Versionamento com Git e GitHub
-- Noções iniciais de Backend (em breve!)
+Curso Sistemas de Informação na **UNINASSAU**, com conclusão prevista para dezembro de 2028. Também tenho formação técnica em Administração pela ETE José Alencar Gomes da Silva.
 
-## Projetos
-
-> Em construção — acompanhe os repositórios fixados abaixo! 🚀
+Minha experiência com atendimento ao cliente e entregas contribui para compreender necessidades do negócio, comunicar soluções e lidar com problemas do dia a dia.
 
 ## Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:juanvnascimentoo@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/juan-victor-199a7534b/)
 
----
-*"Cada linha de código é um passo a mais no aprendizado."*
+Aberto a oportunidades de estágio e vagas júnior em desenvolvimento de software.
